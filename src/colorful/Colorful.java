@@ -367,9 +367,9 @@ public class Colorful {
                 case 0:
                     checker();
                     break;
-//                case 1:
-//                    rainbow();
-//                   break;
+                case 1:
+                    rainbow();
+                   break;
                 case 2:
                     movingSquare();
                     break;
